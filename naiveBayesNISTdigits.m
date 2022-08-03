@@ -1,8 +1,4 @@
 clear all; close all; clc; tic
-% John Garofalo 
-% ELE 559 - Signal Detection Theory
-% Dr. Fonseca
-% Graduate Project
 
 % Using the Bayesian Optimum Classifier method, we can implement Projection
 % Histograms as features for handwritten digit recognition to reduce the
